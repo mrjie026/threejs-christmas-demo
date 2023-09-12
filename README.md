@@ -1,4 +1,6 @@
-# 3d-demo1
+# 3d-demo1 圣诞节贺卡
+
+注意： node >= 16
 
 ## Project setup
 ```
